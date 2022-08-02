@@ -1,7 +1,5 @@
-# Tree Building
+Solution for a coding exercise on Exercism: https://exercism.org/tracks/go/exercises/tree-building
 
-Welcome to Tree Building on Exercism's Go Track.
-If you need help running the tests or submitting your code, check out `HELP.md`.
 
 ## Instructions
 
@@ -27,30 +25,3 @@ root (ID: 0, parent ID: 0)
 |    +-- grandchild3 (ID: 6, parent ID: 3)
 +-- child3 (ID: 5, parent ID: 0)
 ```
-
-## Source
-
-### Created by
-
-- @pminten
-
-### Contributed to by
-
-- @alebaffa
-- @bitfield
-- @Daveed9
-- @devillexio
-- @dvrkps
-- @ekingery
-- @ferhatelmas
-- @hilary
-- @jeffguorg
-- @kytrinyx
-- @leenipper
-- @object88
-- @petertseng
-- @robphoenix
-- @sebito91
-- @soniakeys
-- @tbrisker
-- @tleen
