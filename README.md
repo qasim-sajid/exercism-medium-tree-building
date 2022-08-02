@@ -1,7 +1,5 @@
-# Tree Building
+Solution for a coding exercise on Exercism: https://exercism.org/tracks/go/exercises/tree-building
 
-Welcome to Tree Building on Exercism's Go Track.
-If you need help running the tests or submitting your code, check out `HELP.md`.
 
 ## Instructions
 
